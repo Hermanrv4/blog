@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Convertidor de XML a EXCEL</title>
+    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
+        integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body class="caratula"> 
+    <div>
+        <div class="datos_caratula">
+        <p><b>Integrantes: </b></br></br>
+        - Durand Rosas Daniel Enrique</br>
+        - Puclla Puma Italo</br>
+        - Calla ramos angel</br>
+        - Román Vásquez Bryan Fabrizio</br>
+        </div>
+    </div> 
+        <div class="c_xml">
+            <div class="list-group-item list-group-item-action list-group-item-success" style="background-color:#00085D ; color: white">
+                <center><p>Formato estándar (XML)</p></center>
+            </div>
+            <div class="c_form" style="border-color:#00085D; background-color: rgba(255,255,255,0.5);">
+                <div class="d-flex justify-content-center">
+                    <label for="file">
+                        <div class="c_captura">
+                            <i class="fa-solid fa-arrow-up-from-water-pump" style="color:#00085D ;"></i> 
+                        </div>
+                    </label>
+                </div>
+                <div class="c_subir">
+                    <div class="c_win list-group-item list-group-item-action list-group-item-dark" >
+                        <button id="remover" onclick="remover()" style="width: 15% ;">
+                            <i class="fa-solid fa-square-minus"></i>
+                        </button>
+                        <p style="text-align:center ;width: 85% ;">ARCHIVO GRABADO</p>
+                    </div>
+                </div>
+                <div class="btns-data">
+                    <button id="res" onclick="restablecer()">
+                        <i class="fa-solid fa-circle-chevron-left"></i>
+                    </button>
+                    <button id="download" onclick="ExportarTablaAExcel('table')">
+                        <i class="fa-solid fa-cloud-arrow-down"></i>
+                    </button>
+                </div>
+                <div class="data-container">
+                    <div class="data-left">
+                        <div class="solicitud">
+                            Pedido
+                        </div>
+                        <div class="solicitud">
+                            Fecha de facturación
+                        </div>
+                        <div class="solicitud">
+                            Referencia
+                        </div>
+                        <div class="solicitud">
+                            Fecha de contabilización
+                        </div>
+                        <div class="solicitud">
+                            Importe
+                        </div>
+                        <div class="solicitud">
+                            Valor de venta
+                        </div>
+                        <div class="solicitud">
+                            IGV
+                        </div>
+                        <div class="solicitud">
+                            Texto
+                        </div>
+                    </div>
+                    <div class="data-right">
+                        <div class="value">
+                            Pedido
+                        </div>
+                        <div class="value">
+                            Fecha de facturación
+                        </div>
+                        <div class="value">
+                            Referencia
+                        </div>
+                        <div class="value">
+                            Fecha de contabilización
+                        </div>
+                        <div class="value">
+                            Importe
+                        </div>
+                        <div class="value">
+                            Valor de venta
+                        </div>
+                        <div class="value">
+                            IGV
+                        </div>
+                        <div class="value">
+                            Texto
+                        </div>
+                    </div>
+                </div>
+
+                
+                
+                <input type="file" hidden name="file" id="file" accept=".xml">
+                <center><button id="button" class="btn btn-success" style="background-color:#00085D;border:#00085D;font-size: 25px;">PROCESAR ARCHIVO</button></center>
+
+                
+            </div>
+        </div>
+
+
+        <table class="table table-dark" hidden id="table">
+            <thead>
+                <tr>
+                    <th scope="col">Numero de pedido</th>
+                    <th scope="col">Fecha de facturacion</th>
+                    <th scope="col">Referencia</th>
+                    <th scope="col">Fecha de contabilizacion</th>
+                    <th scope="col">Importe</th>
+                    <th scope="col">Valor de venta</th>
+                    <th scope="col">IGV</th>
+                    <th scope="col">Texto</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr id="data">
+                </tr>
+            </tbody>
+        </table> 
+    <script src="https://kit.fontawesome.com/94e7a4bace.js" crossorigin="anonymous"></script>
+    <script src="index.js"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+ 
+</body>
+
+</html>

@@ -1,0 +1,188 @@
+{
+  "_id": {
+    "$oid": "641622a842d8c7b09d76706e"
+  },
+  "movie": {
+    "$oid": "6031e415101af651667b96ee"
+  },
+  "link": [
+    {
+      "language": "lat",
+      "url": "https://pelisplus.esplay.io/player.html#5fab6f246dc51d7b5d867654",
+      "quality": "1080p",
+      "sandbox": true,
+      "type": "free",
+      "server": "esplay",
+      "status": true
+    },
+    {
+      "language": "lat",
+      "url": "https://uqload.com/embed-t6fadn064cqr.html",
+      "quality": "1080p",
+      "sandbox": false,
+      "type": "free",
+      "server": "uqload",
+      "status": true
+    },
+    {
+      "language": "lat",
+      "url": "https://dood.so/e/mk9i2bpvdf8f",
+      "quality": "1080p",
+      "sandbox": false,
+      "type": "free",
+      "server": "dood",
+      "status": true
+    },
+    {
+      "language": "lat",
+      "url": "https://www.fembed.com/v/0qqewslq0w6mn3r",
+      "quality": "1080p",
+      "sandbox": false,
+      "type": "free",
+      "server": "fembed",
+      "status": true
+    },
+    {
+      "language": "lat",
+      "url": "https://waaw.to/e/dqtvVkegEdIV",
+      "quality": "1080p",
+      "sandbox": false,
+      "type": "free",
+      "server": "netu",
+      "status": true
+    },
+    {
+      "language": "lat",
+      "url": "https://streamtape.com/e/ok68Lmw4KKH9Gm",
+      "quality": "1080p",
+      "sandbox": false,
+      "type": "free",
+      "server": "streamtape",
+      "status": true
+    },
+    {
+      "language": "sub",
+      "url": "https://pelisplus.esplay.io/player.html#5fab6f296dc51d7b5d86765e",
+      "quality": "1080p",
+      "sandbox": true,
+      "type": "free",
+      "server": "esplay",
+      "status": true
+    },
+    {
+      "language": "sub",
+      "url": "https://uqload.com/embed-9sd3bngc4oh7.html",
+      "quality": "1080p",
+      "sandbox": false,
+      "type": "free",
+      "server": "uqload",
+      "status": true
+    },
+    {
+      "language": "sub",
+      "url": "https://dood.so/e/hmbolj1j1jy2",
+      "quality": "1080p",
+      "sandbox": false,
+      "type": "free",
+      "server": "dood",
+      "status": true
+    },
+    {
+      "language": "sub",
+      "url": "https://waaw.to/e/uHQAtku41YZN",
+      "quality": "1080p",
+      "sandbox": false,
+      "type": "free",
+      "server": "netu",
+      "status": true
+    },
+    {
+      "language": "sub",
+      "url": "https://streamtape.com/e/LOyXkqx14qSWKP",
+      "quality": "1080p",
+      "sandbox": false,
+      "type": "free",
+      "server": "streamtape",
+      "status": true
+    },
+    {
+      "language": "es",
+      "url": "https://pelisplus.esplay.io/player.html#60631c6a0a37969d8467d377",
+      "quality": "1080p",
+      "sandbox": true,
+      "type": "free",
+      "server": "esplay",
+      "status": true
+    },
+    {
+      "language": "es",
+      "url": "https://uqload.com/embed-76lpgulj5scx.html",
+      "quality": "1080p",
+      "sandbox": false,
+      "type": "free",
+      "server": "uqload",
+      "status": true
+    },
+    {
+      "language": "es",
+      "url": "https://streamsb.net/e/q6h9u3947cmy.html",
+      "quality": "1080p",
+      "sandbox": false,
+      "type": "free",
+      "server": "streamsb",
+      "status": true
+    },
+    {
+      "language": "es",
+      "url": "https://dood.so/e/hzsej50tfkqe",
+      "quality": "1080p",
+      "sandbox": false,
+      "type": "free",
+      "server": "dood",
+      "status": true
+    },
+    {
+      "language": "es",
+      "url": "https://www.fembed.com/v/yggw3se3jqx10jr",
+      "quality": "1080p",
+      "sandbox": false,
+      "type": "free",
+      "server": "fembed",
+      "status": true
+    },
+    {
+      "language": "es",
+      "url": "https://waaw.to/e/eu1EQCMapEbF",
+      "quality": "1080p",
+      "sandbox": false,
+      "type": "free",
+      "server": "netu",
+      "status": true
+    },
+    {
+      "language": "es",
+      "url": "https://streamtape.com/e/wavbqpDzv6UJ2p1",
+      "quality": "1080p",
+      "sandbox": false,
+      "type": "free",
+      "server": "streamtape",
+      "status": true
+    },
+    {
+      "language": "es",
+      "url": "https://embed.mystream.to/2mfks4x503hk",
+      "quality": "1080p",
+      "sandbox": false,
+      "type": "free",
+      "server": "mystream",
+      "status": true
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-03-18T20:44:24.133Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-18T20:44:24.133Z"
+  },
+  "__v": 0
+}

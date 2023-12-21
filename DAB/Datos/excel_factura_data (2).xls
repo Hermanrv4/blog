@@ -1,0 +1,49 @@
+<table class="table table-dark" hidden="" id="table">
+            <thead>
+                <tr>
+                    <th scope="col">Numero de pedido</th>
+                    <th scope="col">Fecha de facturacion</th>
+                    <th scope="col">Referencia</th>
+                    <th scope="col">Fecha de contabilizacion</th>
+                    <th scope="col">Importe</th>
+                    <th scope="col">Valor de venta</th>
+                    <th scope="col">IGV</th>
+                    <th scope="col">Texto</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr id="data">
+            <td>
+                20521960516
+            </td>
+        
+            <td>
+                2022-06-20
+            </td>
+        
+            <td>
+                E001-1521
+            </td>
+        
+            <td>
+                2022-7-18
+            </td>
+        
+            <td>
+                2516.72
+            </td>
+        
+            <td>
+                2132.81
+            </td>
+        
+            <td>
+                383.91
+            </td>
+        
+            <td>
+                VERIFICACI�N POSTERIOR DE MEDIDOR DE AGUA EN LABORATORIO (NMP 05-2011/(NMP 05-2018) - OFICIO- DI�METRO 15 MM- 20MM
+            </td>
+        </tr>
+            </tbody>
+        </table>

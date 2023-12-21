@@ -1,0 +1,404 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\ajax\libs\jquery\1.7.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\ajax\libs\jquery\3.3.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://code.jquery.com/jquery-3.3.1.min.js
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\jquery-3.3.1.min.js
+Content Type: application/javascript
+
+Uri: https://gambetatv.com/
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\index.htm
+Content Type: text/html
+
+Uri: https://gambetatv.com/agenda/
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\agenda\index.htm
+Content Type: text/html
+
+Uri: https://gambetatv.com/agenda/smallscripts.js
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\agenda\smallscripts.js
+Content Type: application/javascript
+
+Uri: https://gambetatv.com/agenda/sprite.png?up3
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\agenda\sprite.png
+Content Type: image/png
+
+Uri: https://gambetatv.com/css/bootstrap.css
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://gambetatv.com/css/bootstrap.css?v3
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\css\bootstrap-1.css
+Content Type: text/css
+
+Uri: https://gambetatv.com/css/portada.css
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\css\portada.css
+Content Type: text/css
+
+Uri: https://gambetatv.com/css/starp.css
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\css\starp.css
+Content Type: text/css
+
+Uri: https://gambetatv.com/descargar/app-release.apk
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\descargar\app-release.apk
+Content Type: application/octet-stream
+
+Uri: https://gambetatv.com/DMCA.html
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\DMCA.html
+Content Type: text/html
+
+Uri: https://gambetatv.com/embed/eventos/?r=aHR0cHM6Ly93aGl0ZW1vdXNlLnJ1bi9kdHZwbDIuaHRtbD9pZD0xMTE5
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\embed\eventos\index.htm
+Content Type: text/html
+
+Uri: https://gambetatv.com/embed/eventos/?r=aHR0cHM6Ly9jbGFyb3ZpZGVvLmxpYnJlZnV0Ym9sdHYuY29tL21wZGsyLmh0bWw/Z2V0PWFIUjBjSE02THk5c1lYUmhiWFp2YzJ4cGRtVmpiR0Z5YjNacFpHVnZMbUZyWVcxaGFYcGxaQzV1WlhRdlEyOXVkR1Z1ZEM5RVFWTklYMFJCVTBoZlJrc3ZUR2wyWlM5RGFHRnVibVZzS0VaUFdGTlFUMUpVVTE5UVVrVk5TVlZOWDBoRUtTOXRZVzVwWm1WemRDNXRjR1E9JmtleT1PVEZoTWpGbU4yWm1ZekF6WWpObE5EWm1aVE0wT0dSa01EYzFOVGMxT0dVPSZrZXkyPU5XWmxOakJtWkRjM1pHWmhOakZrWW1ZME1XUXhZVEJoWXprMU9UWXlNV1E9
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\embed\eventos\index-7.htm
+Content Type: text/html
+
+Uri: https://gambetatv.com/embed/eventos/?r=aHR0cHM6Ly9ydXN0aWNvdHYuZm91bmRhdGlvbi9kdHYyYS5odG1sP2lkPTAwNDA=
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\embed\eventos\index-3.htm
+Content Type: text/html
+
+Uri: https://gambetatv.com/embed/eventos/?r=aHR0cHM6Ly9ydXN0aWNvdHYuZm91bmRhdGlvbi9kdHYyYS5odG1sP2lkPTExMDE=
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\embed\eventos\index-1.htm
+Content Type: text/html
+
+Uri: https://gambetatv.com/embed/eventos/?r=aHR0cHM6Ly9ydXN0aWNvdHYuZm91bmRhdGlvbi9kdHYyYS5odG1sP2lkPTExMDg=
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\embed\eventos\index-4.htm
+Content Type: text/html
+
+Uri: https://gambetatv.com/embed/eventos/?r=aHR0cHM6Ly9ydXN0aWNvdHYuZm91bmRhdGlvbi9kdHYyYS5odG1sP2lkPTExMTU=
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\embed\eventos\index-6.htm
+Content Type: text/html
+
+Uri: https://gambetatv.com/embed/eventos/?r=aHR0cHM6Ly9ydXN0aWNvdHYuZm91bmRhdGlvbi9kdHZwbDIuaHRtbD9pZD0xMTE3Jmxhbmc9MQ==
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\embed\eventos\index-5.htm
+Content Type: text/html
+
+Uri: https://gambetatv.com/embed/eventos/?r=aHR0cHM6Ly9ydXN0aWNvdHYuZm91bmRhdGlvbi9kdHZwbDMuaHRtbD9pZD0wMDA3Jmxhbmc9MQ==
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\embed\eventos\index-2.htm
+Content Type: text/html
+
+Uri: https://gambetatv.com/en-vivo/bein-sports/
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\en-vivo\bein-sports\index.htm
+Content Type: text/html
+
+Uri: https://gambetatv.com/en-vivo/deportv/
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\en-vivo\deportv\index.htm
+Content Type: text/html
+
+Uri: https://gambetatv.com/en-vivo/directv-sports-2/
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\en-vivo\directv-sports-2\index.htm
+Content Type: text/html
+
+Uri: https://gambetatv.com/en-vivo/directv-sports-plus/
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\en-vivo\directv-sports-plus\index.htm
+Content Type: text/html
+
+Uri: https://gambetatv.com/en-vivo/directv-sports/
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\en-vivo\directv-sports\index.htm
+Content Type: text/html
+
+Uri: https://gambetatv.com/en-vivo/ecdf/
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\en-vivo\ecdf\index.htm
+Content Type: text/html
+
+Uri: https://gambetatv.com/en-vivo/espn-1/
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\en-vivo\espn-1\index.htm
+Content Type: text/html
+
+Uri: https://gambetatv.com/en-vivo/espn-2/
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\en-vivo\espn-2\index.htm
+Content Type: text/html
+
+Uri: https://gambetatv.com/en-vivo/espn-3/
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\en-vivo\espn-3\index.htm
+Content Type: text/html
+
+Uri: https://gambetatv.com/en-vivo/espn-4/
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\en-vivo\espn-4\index.htm
+Content Type: text/html
+
+Uri: https://gambetatv.com/en-vivo/espn-extra/
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\en-vivo\espn-extra\index.htm
+Content Type: text/html
+
+Uri: https://gambetatv.com/en-vivo/espn-premium/
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\en-vivo\espn-premium\index.htm
+Content Type: text/html
+
+Uri: https://gambetatv.com/en-vivo/favicon/apple-icon-60x60.png
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\en-vivo\favicon\apple-icon-60x60.png
+Content Type: image/png
+
+Uri: https://gambetatv.com/en-vivo/favicon/apple-icon-72x72.png
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\en-vivo\favicon\apple-icon-72x72.png
+Content Type: image/png
+
+Uri: https://gambetatv.com/en-vivo/favicon/apple-icon-76x76.png
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\en-vivo\favicon\apple-icon-76x76.png
+Content Type: image/png
+
+Uri: https://gambetatv.com/en-vivo/fox-sports-1/
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\en-vivo\fox-sports-1\index.htm
+Content Type: text/html
+
+Uri: https://gambetatv.com/en-vivo/fox-sports-2/
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\en-vivo\fox-sports-2\index.htm
+Content Type: text/html
+
+Uri: https://gambetatv.com/en-vivo/fox-sports-3/
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\en-vivo\fox-sports-3\index.htm
+Content Type: text/html
+
+Uri: https://gambetatv.com/en-vivo/gol-tv/
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\en-vivo\gol-tv\index.htm
+Content Type: text/html
+
+Uri: https://gambetatv.com/en-vivo/tnt-sports-chile/
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\en-vivo\tnt-sports-chile\index.htm
+Content Type: text/html
+
+Uri: https://gambetatv.com/en-vivo/tnt-sports/
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\en-vivo\tnt-sports\index.htm
+Content Type: text/html
+
+Uri: https://gambetatv.com/en-vivo/tudn/
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\en-vivo\tudn\index.htm
+Content Type: text/html
+
+Uri: https://gambetatv.com/en-vivo/tv-publica/
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\en-vivo\tv-publica\index.htm
+Content Type: text/html
+
+Uri: https://gambetatv.com/en-vivo/tyc-sports/
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\en-vivo\tyc-sports\index.htm
+Content Type: text/html
+
+Uri: https://gambetatv.com/en-vivo/vtv-plus-uruguay/
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\en-vivo\vtv-plus-uruguay\index.htm
+Content Type: text/html
+
+Uri: https://gambetatv.com/en-vivo/win-sports-premium/
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\en-vivo\win-sports-premium\index.htm
+Content Type: text/html
+
+Uri: https://gambetatv.com/en-vivo/win-sports/
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\en-vivo\win-sports\index.htm
+Content Type: text/html
+
+Uri: https://gambetatv.com/favicon/android-icon-192x192.png
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\favicon\android-icon-192x192.png
+Content Type: image/png
+
+Uri: https://gambetatv.com/favicon/apple-icon-114x114.png
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\favicon\apple-icon-114x114.png
+Content Type: image/png
+
+Uri: https://gambetatv.com/favicon/apple-icon-120x120.png
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\favicon\apple-icon-120x120.png
+Content Type: image/png
+
+Uri: https://gambetatv.com/favicon/apple-icon-144x144.png
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\favicon\apple-icon-144x144.png
+Content Type: image/png
+
+Uri: https://gambetatv.com/favicon/apple-icon-152x152.png
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\favicon\apple-icon-152x152.png
+Content Type: image/png
+
+Uri: https://gambetatv.com/favicon/apple-icon-180x180.png
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\favicon\apple-icon-180x180.png
+Content Type: image/png
+
+Uri: https://gambetatv.com/favicon/apple-icon-57x57.png
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\favicon\apple-icon-57x57.png
+Content Type: image/png
+
+Uri: https://gambetatv.com/favicon/apple-icon-60x60.png
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\favicon\apple-icon-60x60.png
+Content Type: image/png
+
+Uri: https://gambetatv.com/favicon/apple-icon-72x72.png
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\favicon\apple-icon-72x72.png
+Content Type: image/png
+
+Uri: https://gambetatv.com/favicon/apple-icon-76x76.png
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\favicon\apple-icon-76x76.png
+Content Type: image/png
+
+Uri: https://gambetatv.com/favicon/favicon-16x16.png
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\favicon\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://gambetatv.com/favicon/favicon-32x32.png
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\favicon\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://gambetatv.com/favicon/manifest.json
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\favicon\manifest.json
+Content Type: application/json
+
+Uri: https://gambetatv.com/img/app.png
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\img\app.png
+Content Type: image/png
+
+Uri: https://gambetatv.com/img/argentina-vs-croacia-en-vivo.png
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\img\argentina-vs-croacia-en-vivo.png
+Content Type: image/png
+
+Uri: https://gambetatv.com/img/logo-canal/bein-sports.webp
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\img\logo-canal\bein-sports.webp
+Content Type: image/webp
+
+Uri: https://gambetatv.com/img/logo-canal/DeporTV.png
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\img\logo-canal\DeporTV.png
+Content Type: image/png
+
+Uri: https://gambetatv.com/img/logo-canal/DirecTV_Sports.png
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\img\logo-canal\DirecTV_Sports.png
+Content Type: image/png
+
+Uri: https://gambetatv.com/img/logo-canal/DirecTV_Sports_2.png
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\img\logo-canal\DirecTV_Sports_2.png
+Content Type: image/png
+
+Uri: https://gambetatv.com/img/logo-canal/DirecTV_Sports_Plus.png
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\img\logo-canal\DirecTV_Sports_Plus.png
+Content Type: image/png
+
+Uri: https://gambetatv.com/img/logo-canal/ecdf.webp
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\img\logo-canal\ecdf.webp
+Content Type: image/webp
+
+Uri: https://gambetatv.com/img/logo-canal/ESPN.webp
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\img\logo-canal\ESPN.webp
+Content Type: image/webp
+
+Uri: https://gambetatv.com/img/logo-canal/ESPN_2.webp
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\img\logo-canal\ESPN_2.webp
+Content Type: image/webp
+
+Uri: https://gambetatv.com/img/logo-canal/ESPN_3.webp
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\img\logo-canal\ESPN_3.webp
+Content Type: image/webp
+
+Uri: https://gambetatv.com/img/logo-canal/ESPN_4.webp
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\img\logo-canal\ESPN_4.webp
+Content Type: image/webp
+
+Uri: https://gambetatv.com/img/logo-canal/ESPN_Extra.png
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\img\logo-canal\ESPN_Extra.png
+Content Type: image/png
+
+Uri: https://gambetatv.com/img/logo-canal/ESPN_Premium.png
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\img\logo-canal\ESPN_Premium.png
+Content Type: image/png
+
+Uri: https://gambetatv.com/img/logo-canal/Fox_Sports.png
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\img\logo-canal\Fox_Sports.png
+Content Type: image/png
+
+Uri: https://gambetatv.com/img/logo-canal/Fox_Sports.webp
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\img\logo-canal\Fox_Sports.webp
+Content Type: image/webp
+
+Uri: https://gambetatv.com/img/logo-canal/Fox_Sports_2.png
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\img\logo-canal\Fox_Sports_2.png
+Content Type: image/png
+
+Uri: https://gambetatv.com/img/logo-canal/Fox_Sports_2.webp
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\img\logo-canal\Fox_Sports_2.webp
+Content Type: image/webp
+
+Uri: https://gambetatv.com/img/logo-canal/Fox_Sports_3.png
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\img\logo-canal\Fox_Sports_3.png
+Content Type: image/png
+
+Uri: https://gambetatv.com/img/logo-canal/GolTV.webp
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\img\logo-canal\GolTV.webp
+Content Type: image/webp
+
+Uri: https://gambetatv.com/img/logo-canal/logo-starplus.png
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\img\logo-canal\logo-starplus.png
+Content Type: image/png
+
+Uri: https://gambetatv.com/img/logo-canal/TNT_Sports.png
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\img\logo-canal\TNT_Sports.png
+Content Type: image/png
+
+Uri: https://gambetatv.com/img/logo-canal/TNT_Sports_Ch.png
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\img\logo-canal\TNT_Sports_Ch.png
+Content Type: image/png
+
+Uri: https://gambetatv.com/img/logo-canal/TUDN.webp
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\img\logo-canal\TUDN.webp
+Content Type: image/webp
+
+Uri: https://gambetatv.com/img/logo-canal/TV_Publica.png
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\img\logo-canal\TV_Publica.png
+Content Type: image/png
+
+Uri: https://gambetatv.com/img/logo-canal/TYC_Sports.webp
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\img\logo-canal\TYC_Sports-1.webp
+Content Type: image/webp
+
+Uri: https://gambetatv.com/img/logo-canal/TYC_Sports.webp?
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\img\logo-canal\TYC_Sports.webp
+Content Type: image/webp
+
+Uri: https://gambetatv.com/img/logo-canal/VTV_Plus2.png
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\img\logo-canal\VTV_Plus2.png
+Content Type: image/png
+
+Uri: https://gambetatv.com/img/logo-canal/Win_Sports_Premium.webp
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\img\logo-canal\Win_Sports_Premium-1.webp
+Content Type: image/webp
+
+Uri: https://gambetatv.com/img/logo-canal/Win_Sports_Premium.webp?
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\img\logo-canal\Win_Sports_Premium.webp
+Content Type: image/webp
+
+Uri: https://gambetatv.com/img/logo-gambetatv.webp
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\img\logo-gambetatv.webp
+Content Type: image/webp
+
+Uri: https://gambetatv.com/img/logo-starplus.png
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\img\logo-starplus.png
+Content Type: image/png
+
+Uri: https://gambetatv.com/img/predicciones.png
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\img\predicciones.png
+Content Type: image/png
+
+Uri: https://gambetatv.com/noticias/argentina-vs-croacia-en-vivo/
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\noticias\argentina-vs-croacia-en-vivo\index.htm
+Content Type: text/html
+
+Uri: https://gambetatv.com/star-plus/
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\star-plus\index.htm
+Content Type: text/html
+
+Uri: https://gambetatv.com/star-plus/horario.js?v
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\star-plus\horario.js
+Content Type: application/x-javascript
+
+Uri: https://go.loorydewdrop.com/ro1N9WBLxL5v/59321
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\ro1N9WBLxL5v\59321
+Content Type: application/javascript
+
+Uri: https://ninnycoastal.com/rK63KjVZZZxU/59321
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\rK63KjVZZZxU\59321
+Content Type: application/javascript
+
+Uri: https://platform-api.sharethis.com/js/sharethis.js
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\js\sharethis.js
+Content Type: text/javascript
+
+Uri: https://waust.at/s.js
+File Name: C:\Users\Herman\Documents\.ADD\gambetatv.com\s.js
+Content Type: application/x-javascript
+

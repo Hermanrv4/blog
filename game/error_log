@@ -1,0 +1,19 @@
+[16-Aug-2023 06:45:35 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "connection.php" in /home/gambetatv/public_html/game/rooms.php on line 2
+[16-Aug-2023 06:45:51 UTC] PHP Parse error:  syntax error, unexpected variable "$servername", expecting "function" or "const" in /home/gambetatv/public_html/game/connection.php on line 5
+[16-Aug-2023 06:47:17 UTC] PHP Parse error:  syntax error, unexpected variable "$servername", expecting "function" or "const" in /home/gambetatv/public_html/game/connection.php on line 5
+[16-Aug-2023 06:48:13 UTC] PHP Parse error:  syntax error, unexpected variable "$servername", expecting "function" or "const" in /home/gambetatv/public_html/game/connection.php on line 5
+[16-Aug-2023 06:48:37 UTC] PHP Parse error:  syntax error, unexpected variable "$servername" in /home/gambetatv/public_html/game/connection.php on line 5
+[16-Aug-2023 06:50:23 UTC] PHP Warning:  Undefined variable $servername in /home/gambetatv/public_html/game/connection.php on line 11
+[16-Aug-2023 06:50:23 UTC] PHP Warning:  Undefined variable $username in /home/gambetatv/public_html/game/connection.php on line 11
+[16-Aug-2023 06:50:23 UTC] PHP Warning:  Undefined variable $password in /home/gambetatv/public_html/game/connection.php on line 11
+[16-Aug-2023 06:50:23 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: YES) in /home/gambetatv/public_html/game/connection.php on line 11
+[16-Aug-2023 06:50:59 UTC] PHP Warning:  Undefined variable $servername in /home/gambetatv/public_html/game/connection.php on line 11
+[16-Aug-2023 06:50:59 UTC] PHP Warning:  Undefined variable $username in /home/gambetatv/public_html/game/connection.php on line 11
+[16-Aug-2023 06:50:59 UTC] PHP Warning:  Undefined variable $password in /home/gambetatv/public_html/game/connection.php on line 11
+[16-Aug-2023 06:50:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: YES) in /home/gambetatv/public_html/game/connection.php on line 11
+[16-Aug-2023 06:51:40 UTC] PHP Warning:  Undefined variable $servername in /home/gambetatv/public_html/game/connection.php on line 11
+[16-Aug-2023 06:51:40 UTC] PHP Warning:  Undefined variable $username in /home/gambetatv/public_html/game/connection.php on line 11
+[16-Aug-2023 06:51:40 UTC] PHP Warning:  Undefined variable $password in /home/gambetatv/public_html/game/connection.php on line 11
+[16-Aug-2023 06:51:40 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: YES) in /home/gambetatv/public_html/game/connection.php on line 11
+[16-Aug-2023 07:16:29 UTC] PHP Warning:  Undefined array key "data" in /home/gambetatv/public_html/game/rooms.php on line 8
+[16-Aug-2023 07:16:43 UTC] PHP Warning:  Undefined array key "data" in /home/gambetatv/public_html/game/rooms.php on line 8

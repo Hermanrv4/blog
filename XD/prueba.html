@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Formulario</title>
+</head>
+<body>
+    <form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>">
+        <?php
+            // Obtiene el directorio actual
+            $dir = "./xml/";
+        
+            // Abre el directorio
+            $dh = opendir($dir);
+        
+            // Lee los archivos del directorio y los almacena en un arreglo
+            $files = array();
+            while (($file = readdir($dh)) !== false) {
+                if ($file != "." && $file != ".." && pathinfo($file, PATHINFO_EXTENSION) == "xml") {
+                    $files[] = $file;
+                }
+            }
+        
+            // Cierra el directorio
+            closedir($dh);
+        
+            // Ordena los archivos alfabéticamente
+            sort($files);
+        ?>
+        
+        <!-- Muestra los archivos en una lista HTML con imágenes del logo de XML y entrada de radio -->
+        <ul class="mosaic">
+            <?php foreach ($files as $file) { ?>
+                <li>
+                    <input type="radio" id="<?php echo $file ?>" name="archivo" value="<?php echo $file ?>" />
+                    <label for="<?php echo $file ?>">
+                        <img src="./img/xml-logo.png" alt="XML logo">
+                        <span><?php echo $file ?></span>
+                    </label>
+                </li>
+            <?php } ?>
+        </ul>
+        
+        <button type="submit" name="submit">Continuar</button>
+    </form>
+
+    <?php
+    // Verifica si se ha enviado el formulario
+    if (isset($_POST["submit"])) {
+        // Obtiene el archivo XML seleccionado
+        $archivo = $_POST["archivo"];
+        
+        // Carga el archivo XML en un objeto SimpleXMLElement
+        $xml = simplexml_load_file("./xml/" . $archivo);
+        
+        // Muestra los datos en una tabla HTML
+        echo "<table>";
+        foreach ($xml->children() as $elemento) {
+            echo "<tr>";
+            foreach ($elemento->children() as $valor) {
+                echo "<td>" . $valor . "</td>";
+            }
+            echo "</tr>";
+        }
+        echo "</table>";
+    }
+    ?>
+</body>
+</html>

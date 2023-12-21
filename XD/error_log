@@ -1,0 +1,89 @@
+[24-Apr-2023 11:05:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function split() in /home1/gambetatv/public_html/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/gambetatv/public_html/index.php on line 11
+[24-Apr-2023 11:05:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function split() in /home1/gambetatv/public_html/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/gambetatv/public_html/index.php on line 11
+[24-Apr-2023 11:06:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function split() in /home1/gambetatv/public_html/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/gambetatv/public_html/index.php on line 11
+[24-Apr-2023 11:06:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function split() in /home1/gambetatv/public_html/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/gambetatv/public_html/index.php on line 11
+[24-Apr-2023 11:06:34 America/Chicago] PHP Warning:  opendir(//backup): Failed to open directory: Permission denied in /home1/gambetatv/public_html/index.php on line 3
+[24-Apr-2023 11:06:34 America/Chicago] PHP Fatal error:  Uncaught TypeError: readdir(): Argument #1 ($dir_handle) must be of type resource or null, bool given in /home1/gambetatv/public_html/index.php:6
+Stack trace:
+#0 /home1/gambetatv/public_html/index.php(6): readdir(false)
+#1 {main}
+  thrown in /home1/gambetatv/public_html/index.php on line 6
+[24-Apr-2023 11:06:43 America/Chicago] PHP Warning:  opendir(//home1): Failed to open directory: Permission denied in /home1/gambetatv/public_html/index.php on line 3
+[24-Apr-2023 11:06:43 America/Chicago] PHP Fatal error:  Uncaught TypeError: readdir(): Argument #1 ($dir_handle) must be of type resource or null, bool given in /home1/gambetatv/public_html/index.php:6
+Stack trace:
+#0 /home1/gambetatv/public_html/index.php(6): readdir(false)
+#1 {main}
+  thrown in /home1/gambetatv/public_html/index.php on line 6
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file(): ./xml/apk.xml:1: parser error : Opening and ending tag mismatch: link line 1 and head in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file(): c=&quot;_next/static/rASwrX9wTcbzFE_cI3wAq/_ssgManifest.js&quot; defer=&quot;&quot;&gt;&lt;/script&gt;&lt;/head&gt; in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file():                                                                                ^ in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file(): ./xml/apk.xml:1: parser error : Opening and ending tag mismatch: img line 1 and a in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file(): &quot;d/GPqPeZQg&quot; alt=&quot;Logo&quot; data-hs-theme-appearance=&quot;dark&quot; style=&quot;width:130px&quot;&gt;&lt;/a&gt; in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file():                                                                                ^ in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file(): ./xml/apk.xml:1: parser error : Opening and ending tag mismatch: a line 1 and nav in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file(): .t.me/&quot; role=&quot;button&quot;&gt;Canal de Telegram (@SFNProjects)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/nav&gt; in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file():                                                                                ^ in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file(): ./xml/apk.xml:1: parser error : Opening and ending tag mismatch: nav line 1 and div in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file(): &quot; role=&quot;button&quot;&gt;Canal de Telegram (@SFNProjects)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/nav&gt;&lt;/div&gt; in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file():                                                                                ^ in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file(): ./xml/apk.xml:1: parser error : Opening and ending tag mismatch: div line 1 and header in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file(): utton&quot;&gt;Canal de Telegram (@SFNProjects)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/nav&gt;&lt;/div&gt;&lt;/header&gt; in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file():                                                                                ^ in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file(): ./xml/apk.xml:1: parser error : Opening and ending tag mismatch: img line 1 and div in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file(): display:flex;justify-content:center&quot;&gt;&lt;img src=&quot;d/G7BwWpV8&quot; class=&quot;apkimg&quot;&gt;&lt;/div&gt; in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file():                                                                                ^ in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file(): ./xml/apk.xml:1: parser error : Opening and ending tag mismatch: img line 1 and a in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file(): escargar&quot;&gt;&lt;a href=&quot;apk/index.htm&quot;&gt;&lt;img src=&quot;d/81vrZ03G&quot; style=&quot;width:190px&quot;&gt;&lt;/a&gt; in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file():                                                                                ^ in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file(): ./xml/apk.xml:1: parser error : Opening and ending tag mismatch: a line 1 and div in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file(): ar&quot;&gt;&lt;a href=&quot;apk/index.htm&quot;&gt;&lt;img src=&quot;d/81vrZ03G&quot; style=&quot;width:190px&quot;&gt;&lt;/a&gt;&lt;/div&gt; in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file():                                                                                ^ in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file(): ./xml/apk.xml:1: parser error : Opening and ending tag mismatch: div line 1 and main in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file(): organizados en un solo lugar.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/main&gt; in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file():                                                                                ^ in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file(): ./xml/apk.xml:1: parser error : Opening and ending tag mismatch: br line 1 and div in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file():  them and for the purpose of citation or comment. &lt;/small&gt;&lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;/div&gt; in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file():                                                                                ^ in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file(): ./xml/apk.xml:1: parser error : Opening and ending tag mismatch: br line 1 and div in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file(): and for the purpose of citation or comment. &lt;/small&gt;&lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt; in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file():                                                                                ^ in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file(): ./xml/apk.xml:1: parser error : Opening and ending tag mismatch: br line 1 and body in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file(): oading') {document.onreadystatechange = prev;handler();}};}})();&lt;/script&gt;&lt;/body&gt; in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file():                                                                                ^ in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file(): ./xml/apk.xml:1: parser error : Opening and ending tag mismatch: br line 1 and html in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file(): ) {document.onreadystatechange = prev;handler();}};}})();&lt;/script&gt;&lt;/body&gt;&lt;/html&gt; in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file():                                                                                ^ in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file(): ./xml/apk.xml:1: parser error : Opening and ending tag mismatch: div line 1 and body in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file(): uot;token&amp;quot;: &amp;quot;0cc003ff0b674bbd9cde4103fe520914&amp;quot;}&quot;&gt;&lt;/script&gt;&lt;/body&gt; in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file():                                                                                ^ in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file(): ./xml/apk.xml:1: parser error : Opening and ending tag mismatch: div line 1 and html in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file(): en&amp;quot;: &amp;quot;0cc003ff0b674bbd9cde4103fe520914&amp;quot;}&quot;&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt; in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file():                                                                                ^ in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file(): ./xml/apk.xml:1: parser error : Premature end of data in tag main line 1 in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file(): en&amp;quot;: &amp;quot;0cc003ff0b674bbd9cde4103fe520914&amp;quot;}&quot;&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt; in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Warning:  simplexml_load_file():                                                                                ^ in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 8
+[14-May-2023 19:10:33 UTC] PHP Fatal error:  Call to a member function children() on boolean in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 12
+[14-May-2023 19:15:57 UTC] PHP Warning:  simplexml_load_file(): ./xml/:1: parser error : Document is empty in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 6
+[14-May-2023 19:15:57 UTC] PHP Warning:  simplexml_load_file():  in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 6
+[14-May-2023 19:15:57 UTC] PHP Warning:  simplexml_load_file(): ^ in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 6
+[14-May-2023 19:15:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 13
+[14-May-2023 19:16:04 UTC] PHP Warning:  simplexml_load_file(): ./xml/:1: parser error : Document is empty in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 6
+[14-May-2023 19:16:04 UTC] PHP Warning:  simplexml_load_file():  in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 6
+[14-May-2023 19:16:04 UTC] PHP Warning:  simplexml_load_file(): ^ in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 6
+[14-May-2023 19:16:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 13
+[14-May-2023 19:16:25 UTC] PHP Warning:  simplexml_load_file(): ./xml/:1: parser error : Document is empty in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 6
+[14-May-2023 19:16:25 UTC] PHP Warning:  simplexml_load_file():  in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 6
+[14-May-2023 19:16:25 UTC] PHP Warning:  simplexml_load_file(): ^ in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 6
+[14-May-2023 19:16:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gambetatv/public_html/XD/simplexml_load_file.php on line 13
